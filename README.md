@@ -21,5 +21,5 @@ This is a simple **currency converter web application** built with a Ballerina b
 
 ---
 
-## 📁 Project Structure
+
 
